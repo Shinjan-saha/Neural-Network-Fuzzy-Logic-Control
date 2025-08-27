@@ -43,8 +43,8 @@ It is designed as a **lab manual + learning guide** for students to bridge theor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/NN-Fuzzy-Control.git
-   cd NN-Fuzzy-Control
+   git clone https://github.com/Shinjan-saha/Neural-Network-Fuzzy-Logic-Control
+   cd Neural-Network-Fuzzy-Logic-Control
    ```
 
 2. Create a Python virtual environment (recommended):
